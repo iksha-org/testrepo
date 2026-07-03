@@ -3,4 +3,4 @@ __pycache__/
 .env
 *.log
 dist/
-node_modules/
+
